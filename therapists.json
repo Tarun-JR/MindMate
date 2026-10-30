@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Dr. Prasad H D",
+    "qualification": "Clinical Psychologist",
+    "registration": "KA-21-MHP-02-000611",
+    "location": "Victoria Hospital, Bengaluru",
+    "specializations": ["General mental health support"],
+    "languages": ["English"],
+    "fee": 0,
+    "availability": "Contact hospital to confirm",
+    "source_url": "https://www.ksmhagov.org/Clinical_Psychologist_List.php"
+  },
+  {
+    "name": "Dr. Bhavana Kumarswamy",
+    "qualification": "Clinical Psychologist",
+    "registration": "KA-05-MHP-02-000603",
+    "location": "Bengaluru",
+    "specializations": ["General mental health support"],
+    "languages": ["English"],
+    "fee": 0,
+    "availability": "Contact clinic to confirm",
+    "source_url": "https://www.ksmhagov.org/Clinical_Psychologist_List.php"
+  },
+  {
+    "name": "Ms. Shatavisa Majumder",
+    "qualification": "Clinical Psychologist",
+    "registration": "KA-05-MHP-02-000560",
+    "location": "Cadabam's MindTalk, Indiranagar, Bengaluru",
+    "specializations": ["General mental health support"],
+    "languages": ["English"],
+    "fee": 0,
+    "availability": "Contact clinic to confirm",
+    "source_url": "https://www.ksmhagov.org/Clinical_Psychologist_List.php"
+  }
+]
